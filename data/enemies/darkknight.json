@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Dark Knight",
+    "label": "darkknight",
+    "level": 5,
+    "damageRate": 4
+  }
+}

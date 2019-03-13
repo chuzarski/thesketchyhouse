@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Greater Zombie",
+    "label": "greaterzombie",
+    "level": 1,
+    "damageRate": 2
+  }
+}

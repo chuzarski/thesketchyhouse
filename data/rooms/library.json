@@ -1,0 +1,47 @@
+{
+  "room": {
+    "label": "library",
+    "title": "The vast library",
+    "description": "This looks to be a library. There are numerous shelves throughout the room. Mysteriously there is a fire raging in the fireplace. I guess someone was just here..",
+    "enemyLevel": 2,
+    "activities": [
+      {
+        "label": "desk",
+        "title": ": A desk",
+        "description": "There is a computer sitting on the desk. It does not seem to work. There is a bunch of paperwork scattered all over the desk.",
+        "items": [
+          "letter,20",
+          "healthkit,5"
+        ]
+      },
+      {
+        "label": "bookcase",
+        "title": ": A bookcase full of books",
+        "description": "This book case has a lot of books on it.",
+        "items": [
+          "book,40"
+        ]
+      },
+      {
+        "label": "endtable",
+        "title": ": An endtable",
+        "description": "End table by the chair in front of the fire. There is a book that looks rather strange sitting on it",
+        "items": [
+          "oddbook"
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "exitsTo": "hallway",
+        "objectives": "",
+        "label": "hallway"
+      },
+      {
+        "exitsTo": "foyer",
+        "objectives": "oddbook",
+        "label": "oddbookcase"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Landshark",
+    "label": "landshark",
+    "level": 3,
+    "damageRate": 4
+  }
+}

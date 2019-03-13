@@ -1,0 +1,42 @@
+{
+  "room": {
+    "label": "basement",
+    "title": "The Basement",
+    "description": "You wake up in a very musty basement.. It’s very dark with a faint light coming from the top of the.. Stairs that are broken. Great! ",
+    "enemyLevel": 0,
+    "activities": [
+      {
+        "label": "workbench",
+        "title": ": A workbench",
+        "description": "A workbench with junk all over it. Something on this bench might be useful",
+        "items": [
+          "healthkit,4",
+          "ducttape"
+        ]
+      },
+      {
+        "label": "darkcorner",
+        "title": ": A dark corner",
+        "description": "You walk over to the dark corner and stub your toe on something",
+        "items": [
+          "ladder"
+        ]
+      },
+      {
+        "label": "bathtub",
+        "title": ": An old bathtub",
+        "description": "An old rusty bathtub. Looks like there is something in it.",
+        "items": [
+          "librarykey"
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "exitsTo": "kitchen",
+        "objectives": "ladder",
+        "label": "kitchen"
+      }
+    ]
+  }
+}

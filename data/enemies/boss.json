@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Final Boss",
+    "label": "boss",
+    "level": 6,
+    "damageRate": 5
+  }
+}

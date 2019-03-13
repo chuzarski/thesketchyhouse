@@ -1,0 +1,39 @@
+{
+  "room": {
+    "label": "foyer",
+    "title": "The main foyer",
+    "description": "This looks to be the main foyer. The front door is barricaded. Looks like I won’t be escaping through there. There is a large staircase leading somewhere; however it is barricaded with a lot of furniture. Well isn’t that odd.",
+    "enemyLevel": 3,
+    "activities": [
+      {
+        "label": "coatrack",
+        "title": "A coat rack",
+        "description": "A coat rack with a few coats",
+        "items": [
+          "coin,20",
+          "healthkit,6"
+        ]
+      },
+      {
+        "label": "umbrellaholder",
+        "title": "An umbrella holder",
+        "description": "Your usual umbrella holder. Nothing special.",
+        "items": [
+          "crowbar"
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "exitsTo": "library",
+        "objectives": "librarykey",
+        "label": "library"
+      },
+      {
+        "exitsTo": "sunroom",
+        "objectives": "",
+        "label": "sunroom"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Medusa",
+    "label": "medusa",
+    "level": 2,
+    "damageRate": 5
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "room": {
+    "label": "utilityroom",
+    "title": "The utility room",
+    "description": "You stumbled into what looks like a utility room. Very dark in here. This room could be dangerous",
+    "enemyLevel": 5,
+    "activities": [
+      {
+        "label": "washtub",
+        "title": ": An old concrete washtub",
+        "description": "Looks to be an old washtub.",
+        "items": [
+          "healthkit,10"
+        ]
+      },
+      {
+        "label": "furnace",
+        "title": ": An old furnce",
+        "description": "The furnace is still operational. Probably should not touch it.",
+        "items": [
+          "healthkit,5"
+        ]
+      },
+      {
+        "label": "closet",
+        "title": ": small closet",
+        "description": "A small closet with some junk in it.",
+        "items": [
+          "ducttape",
+          "broom"
+        ]
+      },
+      {
+        "label": "shelves",
+        "title": ": shelving",
+        "description": "A bunch of shelves. Might be something useful on here",
+        "items": [
+          "ducttape",
+          "healthkit,4",
+          "bottle"
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "exitsTo": "hallway",
+        "objectives": "",
+        "label": "hallway"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "room": {
+    "label": "kitchen",
+    "title": "The Kitchen",
+    "description": "You climbed into a messy kitchen.. There is dust floating in the air. The counters are littered with junk. These counters probably have something useful on them. I probably need a weapon.",
+    "enemyLevel": 0,
+    "activities": [
+      {
+        "label": "pantry",
+        "title": ": The pantry",
+        "description": "A pantry full of food",
+        "items": [
+          "healthkit,5"
+        ]
+      },
+      {
+        "label": "table",
+        "title": ": Dinner table",
+        "description": "There are knives and forks lying all over this table",
+        "items": [
+          "knife"
+        ]
+      },
+      {
+        "label": "sink",
+        "title": ": Kitchen Sink",
+        "description": "This is just an empty kitchen sink",
+        "items": [
+          
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "exitsTo": "basement",
+        "objectives": "",
+        "label": "basement"
+      },
+      {
+        "exitsTo": "hallway",
+        "objectives": "knife",
+        "label": "hallway"
+      }
+    ]
+  }
+}

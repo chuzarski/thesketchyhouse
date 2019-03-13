@@ -1,0 +1,25 @@
+{
+  "room": {
+    "label": "String",
+    "title": "String",
+    "description": "String",
+    "enemyLevel": 0,
+    "activities": [
+      {
+        "label": "String",
+        "title": "String",
+        "description": "String",
+        "items": [
+          "String"
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "exitsTo": "String",
+        "objectives": "String",
+        "label": "String"
+      }
+    ]
+  }
+}

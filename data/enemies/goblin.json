@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Goblin",
+    "label": "goblin",
+    "level": 3,
+    "damageRate": 4
+  }
+}

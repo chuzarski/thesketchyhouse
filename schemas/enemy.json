@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "String",
+    "label": "String",
+    "level": 0,
+    "damageRate": 0
+  }
+}

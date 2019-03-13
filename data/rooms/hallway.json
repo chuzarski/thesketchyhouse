@@ -1,0 +1,59 @@
+{
+  "room": {
+    "label": "hallway",
+    "title": "The Hallway",
+    "description": "This hallway is very long. There are a lot of doors on each side. Which goes where?",
+    "enemyLevel": 1,
+    "activities": [
+      {
+        "label": "door1",
+        "title": "",
+        "description": "This door leads nowhere",
+        "items": [
+          
+        ]
+      },
+      {
+        "label": "door3",
+        "title": "",
+        "description": "This door leads nowhere",
+        "items": [
+          
+        ]
+      },
+      {
+        "label": "door4",
+        "title": "",
+        "description": "Something is blocking this door",
+        "items": [
+          
+        ]
+      },
+      {
+        "label": "door6",
+        "title": "",
+        "description": "The door will not budge",
+        "items": [
+          
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "exitsTo": "kitchen",
+        "objectives": "",
+        "label": "door2"
+      },
+      {
+        "exitsTo": "library",
+        "objectives": "librarykey",
+        "label": "door7"
+      },
+      {
+        "exitsTo": "utilityroom",
+        "objectives": "",
+        "label": "door5"
+      }
+    ]
+  }
+}

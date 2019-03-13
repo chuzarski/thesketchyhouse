@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Ghost",
+    "label": "ghost",
+    "level": 2,
+    "damageRate": 1
+  }
+}

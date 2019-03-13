@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Thief",
+    "label": "thief",
+    "level": 3,
+    "damageRate": 2
+  }
+}

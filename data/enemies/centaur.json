@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Centaur",
+    "label": "centaur",
+    "level": 4,
+    "damageRate": 1
+  }
+}

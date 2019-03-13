@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Tweaker",
+    "label": "tweaker",
+    "level": 5,
+    "damageRate": 5
+  }
+}

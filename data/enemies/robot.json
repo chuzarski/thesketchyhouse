@@ -1,0 +1,8 @@
+{
+  "enemy": {
+    "name": "Robot",
+    "label": "robot",
+    "level": 5,
+    "damageRate": 2
+  }
+}

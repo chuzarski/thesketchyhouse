@@ -1,0 +1,14 @@
+{
+  "room": {
+    "label": "victory",
+    "title": "Game Victory!",
+    "description": "Congratulations! You escaped!",
+    "enemyLevel": 0,
+    "activities": [
+      
+    ],
+    "exits": [
+      
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "room": {
+    "label": "sunroom",
+    "title": "The sunroom",
+    "description": "Your run of the mill sunroom. It has hundreds of windows in it. I just need to break one to get out !!",
+    "enemyLevel": 6,
+    "activities": [
+      
+    ],
+    "exits": [
+      {
+        "exitsTo": "foyer",
+        "objectives": "",
+        "label": "foyer"
+      },
+      {
+        "exitsTo": "victory",
+        "objectives": "crowbar",
+        "label": "window"
+      }
+    ]
+  }
+}
